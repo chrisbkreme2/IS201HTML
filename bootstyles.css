@@ -1,0 +1,44 @@
+.color{
+    background-color: gray;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+li{
+    list-style-type: none;
+}
+.flex{
+    display: flex;
+    background-color: inherit;
+    padding: 30px;
+}
+.flex> li{
+    margin-left: 75px;
+
+}
+.sizz{
+    margin-left: 50vh;
+    height: 700px;
+    width: 700px;
+}
+h1{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:italic;
+}
+.footer{
+    color: white;
+    font-size: 30px;
+    text-align: Center;
+   
+}

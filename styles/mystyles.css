@@ -1,0 +1,75 @@
+.indent1{
+    padding-left: 50px;
+}
+ol{
+    list-style-type:armenian;
+}
+.top{
+list-style-type: none;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .column1 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 3px solid pink;
+    padding: 10px;
+  }
+  
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .cen{
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      text-align: center;
+  }
+
+
+  .wrapper {
+      display: flex;
+      justify-content: center;
+  }
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.column2 {
+        width: 90%;
+        border: 3px solid pink;
+        padding: 10px;
+                
+}
+
+.column {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.randompics{
+    text-align: center;
+}
+
+.youtubevid{
+    margin: 0 auto;
+}
+
+
+
+   
+
+
+
+    
